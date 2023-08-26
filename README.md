@@ -10,6 +10,9 @@
 [![REST](https://img.shields.io/badge/REST-FFCC01?style=for-the-badge)](https://en.wikipedia.org/wiki/Rest)
 [![GRPC](https://img.shields.io/badge/GRPC-FFCC01?style=for-the-badge)](https://grpc.io/)
 [![WEBSOCKET](https://img.shields.io/badge/WEBSOCKET-FFCC01?style=for-the-badge)](https://en.wikipedia.org/wiki/WebSocket)<br/>
+[![WEB3](https://img.shields.io/badge/web3-808080?style=for-the-badge)](https://ethereum.org/en/web3/#:~:text=Web3%20is%20decentralized%3A%20instead%20of,and%20no%20one%20gets%20excluded.)
+[![BLOCKCHAIN](https://img.shields.io/badge/BLOCKCHAIN-808080?style=for-the-badge)](https://en.wikipedia.org/wiki/Blockchain)
+[![HARDHAT](https://img.shields.io/badge/HARDHAT-FFCC01?style=for-the-badge)](https://hardhat.org/)<br/>
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![MongoDB](https://img.shields.io/badge/mongo-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=green)](https://www.mongodb.com/)
