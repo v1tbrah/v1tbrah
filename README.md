@@ -14,15 +14,9 @@
 [![WEBSOCKET](https://img.shields.io/badge/WEBSOCKET-FFCC01?style=for-the-badge)](https://en.wikipedia.org/wiki/WebSocket)<br/>
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![MongoDB](https://img.shields.io/badge/mongo-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=green)](https://www.mongodb.com/)
-[![ScyllaDB](https://img.shields.io/badge/scylla-1793D1.svg?style=for-the-badge)](https://www.scylladb.com/)
-[![Clickhouse](https://img.shields.io/badge/clickhouse-FFCC01.svg?style=for-the-badge&logo=clickhouse&logoColor=black)](https://clickhouse.com/)
-[![Aerospike](https://img.shields.io/badge/aerospike-C41E25.svg?style=for-the-badge&logo=aerospike&logoColor=white)](https://aerospike.com/)<br/>
+[![Clickhouse](https://img.shields.io/badge/clickhouse-FFCC01.svg?style=for-the-badge&logo=clickhouse&logoColor=black)](https://clickhouse.com/)<br/>
 [![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
 [![Nats](https://img.shields.io/badge/-NATS.io-27AAE1?style=flat&logo=natsdotio&logoColor=white)](https://nats.io/)<br/>
 [![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
 [![Grafana](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
 [![Datadog](https://img.shields.io/badge/-DataDog-000?logo=datadog)](https://www.datadoghq.com/)<br/>
-[![WEB3](https://img.shields.io/badge/web3-808080?style=for-the-badge)](https://ethereum.org/en/web3/#:~:text=Web3%20is%20decentralized%3A%20instead%20of,and%20no%20one%20gets%20excluded.)
-[![BLOCKCHAIN](https://img.shields.io/badge/BLOCKCHAIN-808080?style=for-the-badge)](https://en.wikipedia.org/wiki/Blockchain)
-[![HARDHAT](https://img.shields.io/badge/HARDHAT-FFCC01?style=for-the-badge)](https://hardhat.org/)<br/>
